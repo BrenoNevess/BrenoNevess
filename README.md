@@ -3,7 +3,7 @@
 
 ## Sobre mim
 
-Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computação com um alto interesse em tecnologia e códigos, principalmente na área de Segurança da Informação, onde venho estudando para me tornar um profissional na área de Segurança buscando ser um Hacker Ético. Atualmente estou no final do meu curso de Técnico em Informática, com experiências em desenvolvimento de sistemas front-end e back-end.
+Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computação com um grande interesse em tecnologia e códigos, principalmente na área de Segurança da Informação, onde venho estudando para me tornar um profissional na área de Segurança buscando ser um Hacker Ético. Atualmente estou no final do meu curso de Técnico em Informática, com experiências em desenvolvimento de sistemas front-end e back-end.
 </div>
 
 ## 🚩 Habilidades
