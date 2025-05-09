@@ -23,7 +23,9 @@ Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computa
   <img src="https://github-readme-stats.vercel.app/api?username=BrenoNevess&show_icons=true&theme=onedark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNevess&layout=compact&theme=onedark" />
 </p>
 
-## 👀 Interesses
+<div align="center">
+# 👀 Interesses
+</div>
 
 <td>
   <li>Hacker Ético</li>
