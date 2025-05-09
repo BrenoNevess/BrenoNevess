@@ -24,7 +24,7 @@ Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computa
 </p>
 
 <div align="center">
-# 👀 Interesses
+  <h1>👀 Interesses</h1>
 </div>
 
 <td>
