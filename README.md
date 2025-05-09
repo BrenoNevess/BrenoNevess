@@ -15,14 +15,11 @@ Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computa
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-
 </p>
 
 ## 📊 GitHub Status
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrenoNevess&theme=onedark&margin-w=15&margin-h=15" />
-  <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=BrenoNevess&show_icons=true&theme=onedark" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNevess&layout=compact&theme=onedark" />
