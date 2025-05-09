@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
+## Seja bem-vindo(a) ao meu perfil!
 
-<!--
-**BrenoNevess/BrenoNevess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sobre mim
 
-Here are some ideas to get you started:
+Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computação com um alto interesse em tecnologia e códigos, principalmente na área de Segurança da Informação, onde venho estudando para me tornar um profissional na área de Segurança buscando ser um Hacker Ético. Atualmente estou no final do meu curso de Técnico em Informática, com experiências em desenvolvimento de sistemas front-end e back-end.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+## 📊 GitHub Status
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BrenoNevess&theme=onedark&margin-w=15&margin-h=15" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api?username=BrenoNevess&show_icons=true&theme=onedark" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNevess&layout=compact&theme=onedark" />
+</p>
