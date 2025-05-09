@@ -1,5 +1,5 @@
 <div align="center">
-## Seja bem-vindo(a) ao meu perfil!
+<h2> Seja bem-vindo(a) ao meu perfil! </h2>
 
 # Sobre mim
 
