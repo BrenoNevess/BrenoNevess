@@ -8,7 +8,7 @@ Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computa
 
 ## Habilidades
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -18,7 +18,7 @@ Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computa
 
 ## 📊 GitHub Status
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=BrenoNevess&theme=onedark&margin-w=15&margin-h=15" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=BrenoNevess&show_icons=true&theme=onedark" />
