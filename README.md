@@ -20,7 +20,7 @@ Meu nome é Breno Neves, sou um estudante universitário de Ciências da Computa
 ## 📊 GitHub Status
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrenoNevess&show_icons=true&theme=dracula"/>     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNevess&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BrenoNevess&show_icons=true&theme=tokyonight"/>     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNevess&layout=compact&theme=tokyonight"/>
 </p>
 
 
